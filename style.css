@@ -1,0 +1,8 @@
+#logo {
+  width: 10rem;
+  height: 6rem;
+  object-fit: contain;
+}
+header {
+  display: flex;
+}
